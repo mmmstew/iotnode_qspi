@@ -1,0 +1,1 @@
+Isolated QSPI section of STM32CUBE's B-L475-IOT demo.
